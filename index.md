@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Marwan Osama
@@ -20,7 +19,32 @@ title: Marwan Osama
 
   <!-- Image on the right -->
   <div style="flex:0 0 250px;">
-    <img src="images/profile.jpg" width="250" style="border-radius:50%;" alt="Marwan Osama"/>
+    <img src="images/profile.jpg" width="250" style="border-radius:12%;" alt="Marwan Osama"/>
   </div>
 
 </div>
+
+## 🧰 Tech Stack
+Swift • SwiftUI • UIKit • Combine • CoreData • SPM • MVVM • Clean Architecture
+
+## 📱 Selected Projects
+
+### CERQEL (Enterprise Super App)
+- Modularized architecture using SPM
+- Built secure networking layer with encrypted keys
+- Scalable UI with SwiftUI & UIKit interoperability
+
+### AtWork (Enterprise App)
+- Maintained indoor maps & navigation
+- Added livestream & sustainability modules
+- Optimized performance and reduced app launch time
+
+### Thiqati & MCIT (Team Projects)
+- Implemented modular reusable components
+- Followed enterprise coding standards & testing strategies
+
+## 📫 Contact Me
+- Email: marwansultan97@gmail.com
+- LinkedIn: [linkedin.com/in/marwanosama1997](https://linkedin.com/in/marwanosama1997)
+- GitHub: [github.com/marwansultan97](https://github.com/marwansultan97)
+- Portfolio: [marwanosama.dev](https://marwanosama.dev)
