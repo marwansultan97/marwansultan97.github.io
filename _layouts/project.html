@@ -9,10 +9,18 @@
 <body>
 
 <header class="page-header" role="banner">
-  <div style="max-width:64rem; margin:0 auto; text-align:left;">
+  <div style="
+    max-width:64rem;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    position:relative;
+  ">
+
+    <!-- Back to Home (left) -->
     <a href="{{ "/" | relative_url }}" style="
-      display:inline-block;
-      margin-bottom:12px;
+      position:absolute;
+      left:0;
       font-size:0.9rem;
       text-decoration:none;
       color:#159957;
@@ -20,9 +28,14 @@
       ← Back to Home
     </a>
 
-    <h1 class="project-name">{{ page.title }}</h1>
+    <!-- Centered title -->
+    <h1 class="project-name" style="margin:0 auto;">
+      {{ page.title }}
+    </h1>
+
   </div>
 </header>
+
 
 <main id="content" class="main-content" role="main">
   {{ content }}
