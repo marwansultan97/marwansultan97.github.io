@@ -1,7 +1,10 @@
 ---
 layout: default
 title: CERQEL
+description: ""
 ---
+
+← [Back to Home](/)
 
 # CERQEL – Enterprise Super App
 
