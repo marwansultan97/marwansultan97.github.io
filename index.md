@@ -37,16 +37,14 @@ title: Marwan Osama
   <tr>
     <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Swift"/>
-        <strong>iOS Development</strong>
+        <strong>💻 iOS Development</strong>
       </div>
       <div style="margin-top:8px;">Swift, SwiftUI, UIKit, Combine, CoreData</div>
     </td>
 
-  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+  <td style="padding:20px; border1px solid #ddd; vertical-align:top;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Architecture"/>
-        <strong>Architecture</strong>
+        <strong>🤖 Architecture</strong>
       </div>
       <div style="margin-top:8px;">MVVM, Clean Architecture, Modular Systems</div>
     </td>
