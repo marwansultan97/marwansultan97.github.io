@@ -33,77 +33,91 @@ title: Marwan Osama
 
 <table style="width:100%; border-collapse: collapse;">
 
-  <!-- Row 1 -->
   <tr>
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>💻  Programming languages</strong>
+    <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>💻 Programming languages</strong>
       </div>
       <div style="margin-top:8px;">Swift</div>
     </td>
 
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>🤖  iOS Frameworks & APIs</strong>
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>🤖 iOS Frameworks & APIs</strong>
       </div>
-      <div style="margin-top:8px;">UIKit, SwiftUI, Core Data, Core Animation, Core Graphics, AVFoundation, MapKit, Foundation</div>
+      <div style="margin-top:8px;">
+        UIKit, SwiftUI, Core Data, Core Animation, Core Graphics, AVFoundation, MapKit, Foundation
+      </div>
     </td>
 
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>🏛️  Architectures & Design Patterns</strong>
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>🏛️ Architectures & Design Patterns</strong>
       </div>
-      <div style="margin-top:8px;">MVVM, MVC, Clean Architecture, SOLID Principles, Protocol-Oriented Programming</div>
+      <div style="margin-top:8px;">
+        MVVM, MVC, Clean Architecture, SOLID Principles, Protocol-Oriented Programming
+      </div>
     </td>
   </tr>
 
-  <!-- Row 2 -->
   <tr>
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
+    <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
         <strong>{ } Networking & Data</strong>
       </div>
-      <div style="margin-top:8px;">RESTful APIs, URLSession, JSON, Codable, OAuth, API Integration</div>
+      <div style="margin-top:8px;">
+        RESTful APIs, URLSession, JSON, Codable, OAuth, API Integration
+      </div>
     </td>
 
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>🔧  Tools & Developer Utilities</strong>
+   <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>🔧 Tools & Developer Utilities</strong>
       </div>
-      <div style="margin-top:8px;">Xcode, Git, CocoaPods, Swift Package Manager (SPM), Instruments</div>
+      <div style="margin-top:8px;">
+        Xcode, Git, CocoaPods, Swift Package Manager (SPM), Instruments
+      </div>
     </td>
 
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>🐞  Testing & Quality</strong>
+   <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>🐞 Testing & Quality</strong>
       </div>
-      <div style="margin-top:8px;">Debugging, Performance Profiling, Memory Leak Detection, Crash Analysis</div>
+      <div style="margin-top:8px;">
+        Debugging, Performance Profiling, Memory Leak Detection, Crash Analysis
+      </div>
     </td>
   </tr>
 
-  <!-- Row 3 -->
   <tr>
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>👥  Development Practices</strong>
+    <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>👥 Development Practices</strong>
       </div>
-      <div style="margin-top:8px;">Agile, Scrum, Code Reviews, CI/CD Collaboration, App Store Deployment</div>
+      <div style="margin-top:8px;">
+        Agile, Scrum, Code Reviews, CI/CD Collaboration, App Store Deployment
+      </div>
     </td>
 
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>📖  Other Skills</strong>
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>📖 Other Skills</strong>
       </div>
-      <div style="margin-top:8px;">Third-Party SDK Integration, Modularization, Dependency Injection, Problem Solving, Clean Code</div>
+      <div style="margin-top:8px;">
+        Third-Party SDK Integration, Modularization, Dependency Injection, Problem Solving, Clean Code
+      </div>
     </td>
 
-<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
-      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>📢  Languages</strong>
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
+      <div style="display:flex; align-items:flex-start;">
+        <strong>📢 Languages</strong>
       </div>
-      <div style="margin-top:8px;">Arabic, English</div>
+      <div style="margin-top:8px;">
+        Arabic, English
+      </div>
     </td>
   </tr>
 
 </table>
+
 
