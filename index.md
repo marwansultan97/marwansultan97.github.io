@@ -27,27 +27,92 @@ title: Marwan Osama
   </div>
 
 </div>
-## 🧰 Tech Stack
-Swift • SwiftUI • UIKit • Combine • CoreData • SPM • MVVM • Clean Architecture
 
-## 📱 Selected Projects
 
-### CERQEL (Enterprise Super App)
-- Modularized architecture using SPM
-- Built secure networking layer with encrypted keys
-- Scalable UI with SwiftUI & UIKit interoperability
+## 🛠 Technical Skills
 
-### AtWork (Enterprise App)
-- Maintained indoor maps & navigation
-- Added livestream & sustainability modules
-- Optimized performance and reduced app launch time
+<table style="width:100%; border-collapse: collapse; text-align:center;">
 
-### Thiqati & MCIT (Team Projects)
-- Implemented modular reusable components
-- Followed enterprise coding standards & testing strategies
+  <!-- Row 1 -->
+  <tr>
+    <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:30px;">
+        <img src="images/profile.jpg" width="25" alt="Swift"/>
+        <strong>iOS Development</strong>
+      </div>
+      <div style="margin-top:8px;">Swift, SwiftUI, UIKit, Combine, CoreData</div>
+    </td>
 
-## 📫 Contact Me
-- Email: marwansultan97@gmail.com
-- LinkedIn: [linkedin.com/in/marwanosama1997](https://linkedin.com/in/marwanosama1997)
-- GitHub: [github.com/marwansultan97](https://github.com/marwansultan97)
-- Portfolio: [marwanosama.dev](https://marwanosama.dev)
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:20px;">
+        <img src="images/profile.jpg" width="25" alt="Architecture"/>
+        <strong>Architecture</strong>
+      </div>
+      <div style="margin-top:8px;">MVVM, Clean Architecture, Modular Systems</div>
+    </td>
+
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+        <img src="images/profile.jpg" width="25" alt="Tools"/>
+        <strong>Tools & CI/CD</strong>
+      </div>
+      <div style="margin-top:8px;">Xcode, Git, SPM, CocoaPods, Fastlane</div>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+        <img src="images/profile.jpg" width="25" alt="Testing"/>
+        <strong>Testing</strong>
+      </div>
+      <div style="margin-top:8px;">XCTest, UI Testing, Unit Tests</div>
+    </td>
+
+   <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+        <img src="images/profile.jpg" width="25" alt="UI/UX"/>
+        <strong>UI/UX</strong>
+      </div>
+      <div style="margin-top:8px;">SwiftUI Design, Storyboards, Auto Layout</div>
+    </td>
+
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+        <img src="images/profile.jpg" width="25" alt="Cloud"/>
+        <strong>Backend & Cloud</strong>
+      </div>
+      <div style="margin-top:8px;">REST APIs, Firebase, CloudKit</div>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+        <img src="images/profile.jpg" width="25" alt="Performance"/>
+        <strong>Performance</strong>
+      </div>
+      <div style="margin-top:8px;">Optimization, Profiling, Memory Management</div>
+    </td>
+
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+        <img src="images/profile.jpg" width="25" alt="Security"/>
+        <strong>Security</strong>
+      </div>
+      <div style="margin-top:8px;">Keychain, Encryption, Secure APIs</div>
+    </td>
+
+  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+        <img src="images/profile.jpg" width="25" alt="Collaboration"/>
+        <strong>Collaboration</strong>
+      </div>
+      <div style="margin-top:8px;">Agile, Code Review, Git Workflow</div>
+    </td>
+  </tr>
+
+</table>
+
