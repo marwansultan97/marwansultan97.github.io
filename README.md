@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! I’m Marwan - I’m a Senior iOS Developer</h1>
 
 
-<img align="right" height="250" src="https://github.com/marwansultan97/marwansultan97.github.io/blob/main/images/profile.jpg"  />
+<img align="right" height="250" src="images/profile.jpg"  />
 
 <div style="display:flex; gap:20px;">
   <div>
