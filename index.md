@@ -120,4 +120,5 @@ title: Marwan Osama
 
 </table>
 
+<a href="projects/Thiqati.html">View Details →</a>
 
