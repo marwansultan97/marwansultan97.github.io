@@ -6,37 +6,44 @@
 <div style="display:flex; gap:20px;">
   <div>
     <p>
-      </strong>
+      <strong>
       As a Senior iOS Developer with 5+ years of experience, I design and build scalable, high-quality iOS applications using Swift, SwiftUI, and UIKit.
       I focus on clean architecture, modular systems, and performance-driven solutions, delivering reliable products for both enterprise and consumer use.
-    </strong>
+    <strong>
     </p>
 
   <p>
-    </strong>
+    <strong>
       Outside of work, I enjoy playing padel and football, going to the gym, and staying active, which helps me maintain focus and discipline in my professional life.
-      </strong>
+      <strong>
     </p>
   </div>
 </div>
 
+<!-- Tech Stack Section -->
+## 🧰 Tech Stack
+Swift • SwiftUI • UIKit • Combine • CoreData • SPM • MVVM • Clean Architecture
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<!-- Selected Projects Section -->
+## 📱 Selected Projects
 
+### CERQEL (Enterprise Super App)
+- Modularized architecture using SPM
+- Built secure networking layer with encrypted keys
+- Scalable UI with SwiftUI & UIKit interoperability
 
-<details>
-  <summary><strong>Architecture Overview</strong></summary>
+### AtWork (Enterprise App)
+- Maintained indoor maps & navigation
+- Added livestream & sustainability modules
+- Optimized performance and reduced app launch time
 
-  - Clean Architecture
-  - MVVM
-  - Swift Package Manager
-  - Dependency Injection
+### Thiqati & MCIT (Team Projects)
+- Implemented modular reusable components
+- Followed enterprise coding standards & testing strategies
 
-</details>
+<!-- Contact Section -->
+## 📫 Contact Me
+- Email: marwansultan97@gmail.com
+- LinkedIn: [linkedin.com/in/marwanosama1997](https://linkedin.com/in/marwanosama1997)
+- GitHub: [github.com/marwansultan97](https://github.com/marwansultan97)
+- Portfolio: [marwanosama.dev](https://marwanosama.dev)
