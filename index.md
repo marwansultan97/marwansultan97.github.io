@@ -31,7 +31,7 @@ title: Marwan Osama
 
 ## 🛠 Technical Skills
 
-<table style="width:100%; border-collapse: collapse; text-align:center;">
+<table style="width:100%; border-collapse: collapse;">
 
   <!-- Row 1 -->
   <tr>
