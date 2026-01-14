@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: project
 title: CERQEL
-description: ""
 ---
 
 ← [Back to Home](/)
