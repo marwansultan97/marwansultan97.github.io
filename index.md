@@ -36,7 +36,7 @@ title: Marwan Osama
   <!-- Row 1 -->
   <tr>
     <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:30px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Swift"/>
         <strong>iOS Development</strong>
       </div>
@@ -44,7 +44,7 @@ title: Marwan Osama
     </td>
 
   <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:20px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Architecture"/>
         <strong>Architecture</strong>
       </div>
@@ -52,7 +52,7 @@ title: Marwan Osama
     </td>
 
   <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Tools"/>
         <strong>Tools & CI/CD</strong>
       </div>
@@ -63,7 +63,7 @@ title: Marwan Osama
   <!-- Row 2 -->
   <tr>
     <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Testing"/>
         <strong>Testing</strong>
       </div>
@@ -71,7 +71,7 @@ title: Marwan Osama
     </td>
 
    <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="UI/UX"/>
         <strong>UI/UX</strong>
       </div>
@@ -79,7 +79,7 @@ title: Marwan Osama
     </td>
 
   <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Cloud"/>
         <strong>Backend & Cloud</strong>
       </div>
@@ -90,7 +90,7 @@ title: Marwan Osama
   <!-- Row 3 -->
   <tr>
     <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Performance"/>
         <strong>Performance</strong>
       </div>
@@ -98,7 +98,7 @@ title: Marwan Osama
     </td>
 
   <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Security"/>
         <strong>Security</strong>
       </div>
@@ -106,7 +106,7 @@ title: Marwan Osama
     </td>
 
   <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
-      <div style="display:flex; align-items:center; justify-content:center; gap:10px;">
+      <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
         <img src="images/profile.jpg" width="25" alt="Collaboration"/>
         <strong>Collaboration</strong>
       </div>
