@@ -35,80 +35,73 @@ title: Marwan Osama
 
   <!-- Row 1 -->
   <tr>
-    <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>💻 iOS Development</strong>
+        <strong>💻  Programming languages</strong>
       </div>
-      <div style="margin-top:8px;">Swift, SwiftUI, UIKit, Combine, CoreData</div>
+      <div style="margin-top:8px;">Swift</div>
     </td>
 
-  <td style="padding:20px; border1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <strong>🤖 Architecture</strong>
+        <strong>🤖  iOS Frameworks & APIs</strong>
       </div>
-      <div style="margin-top:8px;">MVVM, Clean Architecture, Modular Systems</div>
+      <div style="margin-top:8px;">UIKit, SwiftUI, Core Data, Core Animation, Core Graphics, AVFoundation, MapKit, Foundation</div>
     </td>
 
-  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Tools"/>
-        <strong>Tools & CI/CD</strong>
+        <strong>🏛️  Architectures & Design Patterns</strong>
       </div>
-      <div style="margin-top:8px;">Xcode, Git, SPM, CocoaPods, Fastlane</div>
+      <div style="margin-top:8px;">MVVM, MVC, Clean Architecture, SOLID Principles, Protocol-Oriented Programming</div>
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Testing"/>
-        <strong>Testing</strong>
+        <strong>{ } Networking & Data</strong>
       </div>
-      <div style="margin-top:8px;">XCTest, UI Testing, Unit Tests</div>
+      <div style="margin-top:8px;">RESTful APIs, URLSession, JSON, Codable, OAuth, API Integration</div>
     </td>
 
-   <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="UI/UX"/>
-        <strong>UI/UX</strong>
+        <strong>🔧  Tools & Developer Utilities</strong>
       </div>
-      <div style="margin-top:8px;">SwiftUI Design, Storyboards, Auto Layout</div>
+      <div style="margin-top:8px;">Xcode, Git, CocoaPods, Swift Package Manager (SPM), Instruments</div>
     </td>
 
-  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Cloud"/>
-        <strong>Backend & Cloud</strong>
+        <strong>🐞  Testing & Quality</strong>
       </div>
-      <div style="margin-top:8px;">REST APIs, Firebase, CloudKit</div>
+      <div style="margin-top:8px;">Debugging, Performance Profiling, Memory Leak Detection, Crash Analysis</div>
     </td>
   </tr>
 
   <!-- Row 3 -->
   <tr>
-    <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Performance"/>
-        <strong>Performance</strong>
+        <strong>👥  Development Practices</strong>
       </div>
-      <div style="margin-top:8px;">Optimization, Profiling, Memory Management</div>
+      <div style="margin-top:8px;">Agile, Scrum, Code Reviews, CI/CD Collaboration, App Store Deployment</div>
     </td>
 
-  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Security"/>
-        <strong>Security</strong>
+        <strong>📖  Other Skills</strong>
       </div>
-      <div style="margin-top:8px;">Keychain, Encryption, Secure APIs</div>
+      <div style="margin-top:8px;">Third-Party SDK Integration, Modularization, Dependency Injection, Problem Solving, Clean Code</div>
     </td>
 
-  <td style="padding:20px; border:1px solid #ddd; vertical-align:top;">
+<td style="padding:20px; border:1px solid #ddd; vertical-align:top; text-align:left;">
       <div style="display:flex; align-items:left; justify-content:center; gap:20px;">
-        <img src="images/profile.jpg" width="25" alt="Collaboration"/>
-        <strong>Collaboration</strong>
+        <strong>📢  Languages</strong>
       </div>
-      <div style="margin-top:8px;">Agile, Code Review, Git Workflow</div>
+      <div style="margin-top:8px;">Arabic, English</div>
     </td>
   </tr>
 
