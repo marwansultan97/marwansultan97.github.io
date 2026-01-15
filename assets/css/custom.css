@@ -1,0 +1,30 @@
+.projects-wide {
+  max-width: 90rem; /* wider than Cayman */
+  margin: 0 auto;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+/* Responsive fallback */
+@media (max-width: 900px) {
+  .projects-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Screenshot sizing */
+.project-card img {
+  height: 420px;
+  object-fit: cover;
+  width: 100%;
+}
