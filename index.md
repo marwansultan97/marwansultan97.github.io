@@ -31,50 +31,54 @@ title: Marwan Osama
 ## 🚀 Projects
 Some of the applications I have built, maintained, and published.
 
-<div style="
-  display:grid;
-  grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));
-  gap:24px;
-  margin-top:24px;
-">
+<div class="projects-wide">
+  <div class="projects-grid">
 
-  <!-- Project 1 -->
-  <div style="border:1px solid #e5e5e5; border-radius:12px; overflow:hidden;">
-    <img src="images/thiqati/9.png" style="width:100%;" />
-    <div style="padding:16px;">
-      <h3>CERQEL</h3>
-      <p>Enterprise super app with modular scalable architecture.</p>
-      <p><strong>Category:</strong> Enterprise</p>
-      <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-      <a href="projects/Thiqati.html">View details →</a>
+    <!-- Project 1 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
     </div>
-  </div>
 
-  <!-- Project 2 -->
-  <div style="border:1px solid #e5e5e5; border-radius:12px; overflow:hidden;">
-    <img src="images/projects/atwork.png" style="width:100%;" />
-    <div style="padding:16px;">
-      <h3>AtWork</h3>
-      <p>Enterprise workplace app with indoor maps and live modules.</p>
-      <p><strong>Category:</strong> Enterprise</p>
-      <p><strong>Tech:</strong> UIKit, MapKit</p>
-      <a href="projects/atwork.html">View details →</a>
+    <!-- Project 2 -->
+  <div class="project-card">
+      <img src="images/thiqati/8.png" alt="AtWork App">
+      <div class="project-content">
+        <h3>AtWork</h3>
+        <p class="project-desc">
+          Enterprise workplace app with indoor maps and live modules.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> UIKit, MapKit</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
     </div>
-  </div>
 
-  <!-- Project 3 -->
-  <div style="border:1px solid #e5e5e5; border-radius:12px; overflow:hidden;">
-    <img src="images/projects/thiqati.png" style="width:100%;" />
-    <div style="padding:16px;">
-      <h3>Thiqati</h3>
-      <p>Government service app built with enterprise standards.</p>
-      <p><strong>Category:</strong> Government</p>
-      <p><strong>Tech:</strong> Swift, MVVM</p>
-      <a href="projects/thiqati.html">View details →</a>
+    <!-- Project 3 -->
+  <div class="project-card">
+      <img src="images/thiqati/7.png" alt="Thiqati App">
+      <div class="project-content">
+        <h3>Thiqati</h3>
+        <p class="project-desc">
+          Government service app built with enterprise standards.
+        </p>
+        <p><strong>Category:</strong> Government</p>
+        <p><strong>Tech:</strong> Swift, MVVM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
     </div>
-  </div>
 
+  </div>
 </div>
+
 
 
 ## 🛠 Technical Skills
