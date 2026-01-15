@@ -40,13 +40,13 @@ Some of the applications I have built, maintained, and published.
 
   <!-- Project 1 -->
   <div style="border:1px solid #e5e5e5; border-radius:12px; overflow:hidden;">
-    <img src="images/projects/cerqel.png" style="width:100%;" />
+    <img src="images/thiqati/9.png" style="width:100%;" />
     <div style="padding:16px;">
       <h3>CERQEL</h3>
       <p>Enterprise super app with modular scalable architecture.</p>
       <p><strong>Category:</strong> Enterprise</p>
       <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-      <a href="projects/cerqel.html">View details →</a>
+      <a href="projects/Thiqati.html">View details →</a>
     </div>
   </div>
 
