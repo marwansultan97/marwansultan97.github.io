@@ -30,10 +30,9 @@
 
 .project-card img {
   width: 100%;
-  height: 420px;
-  object-fit: contain; /* <-- fits entire image */
+  height: auto;
   display: block;
-}
+  object-fit: none;
 
 .project-content {
   padding: 16px;
