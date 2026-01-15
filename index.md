@@ -42,153 +42,163 @@ Some of the applications I have built, maintained, and published.
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
-        Thiqati is an enterprise app that streamlines internal operations and boosts employee engagement. It manages attendance, service requests, company updates, and includes a community module for employee interaction and collaboration.
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
       </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit, Azure Cloud Messaging, Asynchronous Programming, Security & Data Privacy, MVVM / Clean Architecture, Service Request Workflows, Dynamic Form Engine, Attendance Management System, Time Tracking check-in/check-out flows, Community/Social Feed</p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
   </div>
 </a>
 
     <!-- Project 2 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/8.png" alt="AtWork App">
-      <div class="project-content">
-        <h3>AtWork</h3>
-        <p class="project-desc">
-          Enterprise workplace app with indoor maps and live modules.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> UIKit, MapKit</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/8.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 3 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/7.png" alt="Thiqati App">
-      <div class="project-content">
-        <h3>Thiqati</h3>
-        <p class="project-desc">
-          Government service app built with enterprise standards.
-        </p>
-        <p><strong>Category:</strong> Government</p>
-        <p><strong>Tech:</strong> Swift, MVVM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/7.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 4 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/6.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 5 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/5.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 6 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/4.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 7 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/3.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 8 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/2.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 9 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/1.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 10 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/10.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 11 -->
+  <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>CERQEL</h3>
-        <p class="project-desc">
-          Enterprise super app with modular scalable architecture.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/11.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
+  </div>
+</a>
 
   </div>
 </div>
