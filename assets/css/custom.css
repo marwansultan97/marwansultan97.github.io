@@ -26,19 +26,32 @@
   border-radius: 12px;
   overflow: hidden;
   background: #fff;
+  display: flex;
+  flex-direction: column;
+  height: 500px; /* fixed card height for uniformity */
 }
 
 .project-card img {
-  width: 100%;
-  height: auto;
+  width: auto;           /* image scales automatically in width */
+  max-width: 100%;       /* never overflow the card */
+  max-height: 250px;     /* reserve space for the description */
+  margin: 0 auto;        /* center horizontally */
   display: block;
-  object-fit: none;
+  object-fit: contain;   /* fit entire image without cropping */
+  background-color: #f5f5f5; /* optional for padding effect */
+}
 
 .project-content {
   padding: 16px;
+  flex: 1; /* fill remaining card height */
+  display: flex;
+  flex-direction: column;
 }
+
 
 .project-desc {
   color: #555;
   font-size: 0.95rem;
 }
+
+
