@@ -62,3 +62,15 @@
   font-size: 0.95rem;
   margin-top: 8px;
 }
+
+.project-link {
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+  display: block;        /* makes link behave like a block */
+}
+.project-link:hover .project-card {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.12); /* subtle hover effect */
+  transform: translateY(-4px);
+  transition: 0.3s ease;
+}
+
