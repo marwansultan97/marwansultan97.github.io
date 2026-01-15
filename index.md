@@ -44,8 +44,8 @@ Some of the applications I have built, maintained, and published.
       <p class="project-desc">
         Thiqati is an enterprise app that streamlines internal operations and boosts employee engagement. It manages attendance, service requests, company updates, and includes a community module for employee interaction and collaboration.
       </p>
-      <p><strong>Category:</strong> Enterprise</p>
-      <p><strong>Tech:</strong> UIKit, Azure Cloud Messaging, Asynchronous Programming, Security & Data Privacy, MVVM / Clean Architecture, Service Request Workflows, Dynamic Form Engine, Attendance Management System, Time Tracking check-in/check-out flows, Community/Social Feed</p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit, Azure Cloud Messaging, Asynchronous Programming, Security & Data Privacy, MVVM / Clean Architecture, Service Request Workflows, Dynamic Form Engine, Attendance Management System, Time Tracking check-in/check-out flows, Community/Social Feed</p>
     </div>
   </div>
 </a>
