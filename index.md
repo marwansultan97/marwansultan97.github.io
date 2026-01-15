@@ -36,20 +36,19 @@ Some of the applications I have built, maintained, and published.
   <div class="projects-grid">
 
     <!-- Project 1 -->
+<a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-      <img src="images/thiqati/9.png" alt="CERQEL App">
-      <div class="project-content">
-        <h3>Thiqati</h3>
-        <p class="project-desc">
-          Thiqati is an enterprise-focused application designed to streamline internal operations and enhance employee engagement. It enables companies to efficiently manage attendance, handle employee service requests, and keep staff informed through centralized updates such as company news, offers, and exclusive deals.
-
-The app also includes a community module, similar to a social feed, where employees can share updates, interact with posts, and engage with company-wide discussions—creating a more connected and collaborative workplace experience.
-        </p>
-        <p><strong>Category:</strong> Enterprise</p>
-        <p><strong>Tech:</strong> UIKit, Azure Cloud Messaging, Asynchronous Programming, Security & Data Privacy, MVVM / Clean Architecture, Service Request Workflows, Dynamic Form Engine, Attendance Management System, Time Tracking check-in/check-out flows, Community/Social Feed</p>
-        <a href="projects/Thiqati.html">View details →</a>
-      </div>
+    <img src="images/thiqati/9.png" alt="Thiqati App">
+    <div class="project-content">
+      <h3>Thiqati</h3>
+      <p class="project-desc">
+        Thiqati is an enterprise app that streamlines internal operations and boosts employee engagement. It manages attendance, service requests, company updates, and includes a community module for employee interaction and collaboration.
+      </p>
+      <p><strong>Category:</strong> Enterprise</p>
+      <p><strong>Tech:</strong> UIKit, Azure Cloud Messaging, Asynchronous Programming, Security & Data Privacy, MVVM / Clean Architecture, Service Request Workflows, Dynamic Form Engine, Attendance Management System, Time Tracking check-in/check-out flows, Community/Social Feed</p>
     </div>
+  </div>
+</a>
 
     <!-- Project 2 -->
   <div class="project-card">
