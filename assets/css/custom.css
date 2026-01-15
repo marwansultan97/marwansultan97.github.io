@@ -1,5 +1,12 @@
+.main-content {
+  max-width: 100rem;  /* wider than default */
+  width: 100%;       /* take full available width */
+  padding-left: 2rem; /* optional padding */
+  padding-right: 2rem;
+}
+
 .projects-wide {
-  max-width: 90rem; /* wider than Cayman */
+  max-width: 100rem; /* wider than Cayman */
   margin: 0 auto;
 }
 
