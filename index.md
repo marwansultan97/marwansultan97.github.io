@@ -76,6 +76,118 @@ Some of the applications I have built, maintained, and published.
       </div>
     </div>
 
+    <!-- Project 4 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
+    <!-- Project 5 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
+    <!-- Project 6 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
+    <!-- Project 7 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
+    <!-- Project 8 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
+    <!-- Project 9 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
+    <!-- Project 10 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
+    <!-- Project 11 -->
+  <div class="project-card">
+      <img src="images/thiqati/9.png" alt="CERQEL App">
+      <div class="project-content">
+        <h3>CERQEL</h3>
+        <p class="project-desc">
+          Enterprise super app with modular scalable architecture.
+        </p>
+        <p><strong>Category:</strong> Enterprise</p>
+        <p><strong>Tech:</strong> Swift, SwiftUI, SPM</p>
+        <a href="projects/Thiqati.html">View details →</a>
+      </div>
+    </div>
+
   </div>
 </div>
 
