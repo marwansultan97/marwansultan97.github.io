@@ -44,7 +44,7 @@
 }
 
 .project-card img {
-  width: 100%;       /* full width of card */
+  width: 80%;       /* full width of card */
   height: auto;      /* auto height based on aspect ratio */
   display: block;
 }
