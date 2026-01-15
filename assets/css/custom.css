@@ -61,7 +61,13 @@
 .project-desc {
   color: #555;
   font-size: 0.95rem;
-  margin-top: 8px;
+  margin-top: 4px;
+}
+
+.project-meta {
+  font-size: 0.85rem; /* smaller than description */
+  color: #666;        /* optional: slightly lighter color */
+  margin-top: 2px;    /* adjust spacing if needed */
 }
 
 .project-link {
