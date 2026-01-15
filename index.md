@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Marwan Osama
+description: Senior iOS Developer
 ---
 
 <div style="display:flex; align-items:flex-start; gap:20px; margin-top:20px;">
