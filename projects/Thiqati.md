@@ -4,9 +4,11 @@ title: Thiqati
 ---
 
 ## Thiqati
-**Category:** Enterprise Application  
-**Availability:** Internal Enterprise Distribution  
-[View on App Store →](#)
+<div class="project-meta-inline">
+  <span><strong>Category:</strong> Enterprise Application</span>
+  <span><strong>Availability:</strong> Internal Enterprise Distribution</span>
+  <a href="#">View on App Store →</a>
+</div>
 
 ---
 
@@ -39,40 +41,48 @@ The app centralizes multiple employee services into a single platform, enabling 
 
 ## 🧰 Technology Stack
 
+<div class="tech-group">
 ### iOS
 - Swift
 - UIKit
 - SwiftUI (hybrid usage)
 - Combine
 - Auto Layout
+</div>
 
+<div class="tech-group">
 ### Architecture & Patterns
 - MVVM
 - Clean Architecture
 - Protocol-Oriented Programming
 - Dependency Injection
+</div>
 
+<div class="tech-group">
 ### Networking & Data
 - RESTful APIs
 - URLSession
 - Codable
 - Asynchronous Programming
 - Secure API Key Management
+</div>
 
+<div class="tech-group">
 ### Backend & Services
 - Azure Cloud Messaging
 - Push Notifications
 - Secure Authentication
 - Role-Based Access Control
+</div>
 
 ---
 
 ## ⭐ Key Features
 
-- Attendance management with check-in / check-out workflows
-- Employee service request system with dynamic forms
-- Community feed for internal communication and engagement
-- Company announcements, news, and exclusive offers
-- Secure authentication and enterprise-grade data privacy
-- Modular architecture for scalability and maintainability
+- **Attendance management with check-in / check-out workflows
+- **Employee service request system with dynamic forms
+- **Community feed for internal communication and engagement
+- **Company announcements, news, and exclusive offers
+- **Secure authentication and enterprise-grade data privacy
+- **Modular architecture for scalability and maintainability
 
