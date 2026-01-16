@@ -66,16 +66,16 @@ Some of the applications I have built, maintained, and published.
 </a>
 
     <!-- Project 3 -->
-  <a href="projects/Thiqati.html" class="project-link">
+  <a href="projects/WhatPhoto.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/7.webp" alt="Thiqati App">
+    <img src="images/WhatPhoto/5.webp" alt="WhatPhoto App">
     <div class="project-content">
-      <h3>Thiqati</h3>
+      <h3>WhatPhoto – AI Art Generator</h3>
       <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+        AI-powered iOS app that turns text, images, and voice into artwork.
       </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
+      <p class="project-meta"><strong>Category:</strong> Consumer / AI & Creativity</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · AI Image Generation · In-App Purchases · Speech Recognition · Firebase</p>
     </div>
   </div>
 </a>
