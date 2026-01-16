@@ -82,3 +82,31 @@
   box-shadow: 0 12px 24px rgba(0,0,0,0.15); /* subtle shadow */
 }
 
+.screenshots-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-top: 24px;
+}
+
+.screenshots-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid #e5e5e5;
+}
+
+/* Tablet */
+@media (max-width: 1000px) {
+  .screenshots-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .screenshots-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
