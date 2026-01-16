@@ -52,6 +52,7 @@ URLSession / RESTful APIs
 </div>
 <div class="tech-group">
 In-App Purchases
+</div>
 <div class="tech-group">
 MVVM / Clean Architecture
 </div>
