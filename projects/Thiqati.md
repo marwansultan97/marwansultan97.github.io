@@ -9,7 +9,7 @@ title: Thiqati
 
 ---
 
-## 🧩 Overview
+## 🧩 Overview {#overview}
 
 **Thiqati** is an enterprise-focused mobile application designed to streamline internal operations and enhance employee engagement within large organizations.
 
@@ -17,7 +17,7 @@ The app centralizes multiple employee services into a single platform, enabling 
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshots {#screenshots}
 
 <div class="screenshots-grid">
   <img src="../images/thiqati/1.png" alt="Thiqati Screenshot 1">
@@ -35,7 +35,7 @@ The app centralizes multiple employee services into a single platform, enabling 
 </div>
 
 
-## 🧰 Technology Stack
+## 🧰 Technology Stack {#tech}
 
 ### iOS
 <div class="tech-group">
@@ -72,7 +72,7 @@ The app centralizes multiple employee services into a single platform, enabling 
 </div>
 
 ---
-## ⭐ Key Features
+## ⭐ Key Features {#features}
 
 - Attendance management with check-in / check-out workflows
 - Employee service request system with dynamic forms
