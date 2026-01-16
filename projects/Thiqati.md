@@ -38,15 +38,31 @@ In addition to operational tools, Thiqati includes collaborative and knowledge-s
 ## 🧰 Technology Stack {#tech}
 
 <div class="tech-group">
-- UIKit
-- MVVM / Clean Architecture
-- Dependency Injection
-- Asynchronous Programming
-- Azure Cloud Messaging
-- URLSession / RESTful APIs
-- Microsoft Authentication
-- Push Notifications
-- Role-Based Access Control
+UIKit
+</div>
+<div class="tech-group">
+Dependency Injection
+</div>
+<div class="tech-group">
+Asynchronous Programming
+</div>
+<div class="tech-group">
+Azure Cloud Messaging
+</div>
+<div class="tech-group">
+URLSession / RESTful APIs
+</div>
+<div class="tech-group">
+Microsoft Authentication
+</div>
+<div class="tech-group">
+Push Notifications
+</div>
+<div class="tech-group">
+MVVM / Clean Architecture
+</div>
+<div class="tech-group">
+Role-Based Access Control
 </div>
 
 ---
