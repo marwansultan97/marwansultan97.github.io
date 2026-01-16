@@ -51,16 +51,16 @@ Some of the applications I have built, maintained, and published.
 </a>
 
     <!-- Project 2 -->
-  <a href="projects/Thiqati.html" class="project-link">
+  <a href="projects/AtWork" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/8.webp" alt="Thiqati App">
+    <img src="images/atwork/5.webp" alt="AtWork App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+        Enterprise indoor navigation platform enhancing workplace efficiency and sustainability.
       </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Smart Workplace</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MappedIn · Geospatial Mapping · Azure Cloud Messaging · Datadog</p>
     </div>
   </div>
 </a>
