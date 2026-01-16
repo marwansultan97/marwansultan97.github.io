@@ -4,11 +4,8 @@ title: Thiqati
 ---
 
 ## Thiqati
-<div class="project-meta-inline">
-  <span><strong>Category:</strong> Enterprise Application</span>
-  <span><strong>Availability:</strong> Internal Enterprise Distribution</span>
-  <a href="#">View on App Store →</a>
-</div>
+**Category:** Enterprise Application / Utilities  
+[ View on App Store →](https://apps.apple.com/us/app/thiqati/id6468778547)
 
 ---
 
@@ -37,12 +34,11 @@ The app centralizes multiple employee services into a single platform, enabling 
   <img src="../images/thiqati/12.png" alt="Thiqati Screenshot 12">
 </div>
 
----
 
 ## 🧰 Technology Stack
 
-<div class="tech-group">
 ### iOS
+<div class="tech-group">
 - Swift
 - UIKit
 - SwiftUI (hybrid usage)
@@ -50,16 +46,16 @@ The app centralizes multiple employee services into a single platform, enabling 
 - Auto Layout
 </div>
 
-<div class="tech-group">
 ### Architecture & Patterns
+<div class="tech-group">
 - MVVM
 - Clean Architecture
 - Protocol-Oriented Programming
 - Dependency Injection
 </div>
 
-<div class="tech-group">
 ### Networking & Data
+<div class="tech-group">
 - RESTful APIs
 - URLSession
 - Codable
@@ -67,8 +63,8 @@ The app centralizes multiple employee services into a single platform, enabling 
 - Secure API Key Management
 </div>
 
-<div class="tech-group">
 ### Backend & Services
+<div class="tech-group">
 - Azure Cloud Messaging
 - Push Notifications
 - Secure Authentication
@@ -76,13 +72,12 @@ The app centralizes multiple employee services into a single platform, enabling 
 </div>
 
 ---
-
 ## ⭐ Key Features
 
-- **Attendance management with check-in / check-out workflows
-- **Employee service request system with dynamic forms
-- **Community feed for internal communication and engagement
-- **Company announcements, news, and exclusive offers
-- **Secure authentication and enterprise-grade data privacy
-- **Modular architecture for scalability and maintainability
+- Attendance management with check-in / check-out workflows
+- Employee service request system with dynamic forms
+- Community feed for internal communication and engagement
+- Company announcements, news, and exclusive offers
+- Secure authentication and enterprise-grade data privacy
+- Modular architecture for scalability and maintainability
 
