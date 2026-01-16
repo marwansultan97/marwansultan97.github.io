@@ -20,18 +20,18 @@ The app centralizes multiple employee services into a single platform, enabling 
 ## 📱 Screenshots {#screenshots}
 
 <div class="screenshots-grid">
-  <img src="../images/thiqati/1.png" alt="Thiqati Screenshot 1">
-  <img src="../images/thiqati/2.png" alt="Thiqati Screenshot 2">
-  <img src="../images/thiqati/3.png" alt="Thiqati Screenshot 3">
-  <img src="../images/thiqati/4.png" alt="Thiqati Screenshot 4">
-  <img src="../images/thiqati/5.png" alt="Thiqati Screenshot 5">
-  <img src="../images/thiqati/6.png" alt="Thiqati Screenshot 6">
-  <img src="../images/thiqati/7.png" alt="Thiqati Screenshot 7">
-  <img src="../images/thiqati/8.png" alt="Thiqati Screenshot 8">
-  <img src="../images/thiqati/9.png" alt="Thiqati Screenshot 9">
-  <img src="../images/thiqati/10.png" alt="Thiqati Screenshot 10">
-  <img src="../images/thiqati/11.png" alt="Thiqati Screenshot 11">
-  <img src="../images/thiqati/12.png" alt="Thiqati Screenshot 12">
+  <img src="../images/thiqati1/1.webp" alt="Thiqati Screenshot 1">
+  <img src="../images/thiqati1/2.webp" alt="Thiqati Screenshot 2">
+  <img src="../images/thiqati1/3.webp" alt="Thiqati Screenshot 3">
+  <img src="../images/thiqati1/4.webp" alt="Thiqati Screenshot 4">
+  <img src="../images/thiqati1/5.webp" alt="Thiqati Screenshot 5">
+  <img src="../images/thiqati1/6.webp" alt="Thiqati Screenshot 6">
+  <img src="../images/thiqati1/7.webp" alt="Thiqati Screenshot 7">
+  <img src="../images/thiqati1/8.webp" alt="Thiqati Screenshot 8">
+  <img src="../images/thiqati1/9.webp" alt="Thiqati Screenshot 9">
+  <img src="../images/thiqati1/10.webp" alt="Thiqati Screenshot 10">
+  <img src="../images/thiqati1/11.webp" alt="Thiqati Screenshot 11">
+  <img src="../images/thiqati1/12.webp" alt="Thiqati Screenshot 12">
 </div>
 
 
