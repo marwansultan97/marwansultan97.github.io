@@ -43,5 +43,30 @@
   {{ content }}
 </main>
 
+  <!-- Screenshot Modal -->
+<div id="screenshot-modal" class="screenshot-modal">
+  <span class="modal-close">&times;</span>
+  <img class="modal-image" id="modal-image">
+</div>
+
+<script>
+  const modal = document.getElementById("screenshot-modal");
+  const modalImg = document.getElementById("modal-image");
+  const closeBtn = document.querySelector(".modal-close");
+
+  document.querySelectorAll(".screenshots-grid img").forEach(img => {
+    img.addEventListener("click", () => {
+      modal.classList.add("open");
+      modalImg.src = img.src;
+    });
+  });
+
+  closeBtn.onclick = () => modal.classList.remove("open");
+  modal.onclick = e => {
+    if (e.target === modal) modal.classList.remove("open");
+  };
+</script>
+
+
 </body>
 </html>
