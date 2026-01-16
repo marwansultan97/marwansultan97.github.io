@@ -5,6 +5,34 @@
   padding-right: 2rem;
 }
 
+.main-content h2 {
+  font-size: 1.4rem;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.main-content h3 {
+  font-size: 1.1rem;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.main-content p {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  margin-bottom: 0.6rem;
+}
+
+.main-content ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.main-content li {
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+}
+
 .projects-wide {
   max-width: 90rem; /* wider than Cayman */
   margin: 0 auto;
@@ -85,28 +113,35 @@
 .screenshots-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 16px;
-  margin-top: 24px;
+  gap: 12px;
+  margin-top: 16px;
 }
 
 .screenshots-grid img {
-  width: 92%;
+  width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 8px;
   border: 1px solid #e5e5e5;
+  background: #fff;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.screenshots-grid img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.12);
 }
 
 /* Tablet */
 @media (max-width: 1000px) {
   .screenshots-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 
 /* Mobile */
 @media (max-width: 600px) {
   .screenshots-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
@@ -114,7 +149,24 @@
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-.screenshots-grid img:hover {
-  transform: scale(1.05);
-  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+.tech-group {
+  background: #fafafa;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin-bottom: 12px;
+}
+
+.tech-group h3 {
+  margin-top: 0;
+  font-size: 1rem;
+  color: #333;
+}
+
+.main-content ul {
+  padding-left: 1.1rem;
+}
+
+.main-content li::marker {
+  color: #0366d6;
 }
