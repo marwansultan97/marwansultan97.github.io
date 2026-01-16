@@ -55,7 +55,7 @@ Some of the applications I have built, maintained, and published.
   <div class="project-card">
     <img src="images/atwork/5.webp" alt="AtWork App">
     <div class="project-content">
-      <h3>Thiqati</h3>
+      <h3>AtWork</h3>
       <p class="project-desc">
         Enterprise indoor navigation platform enhancing workplace efficiency and sustainability.
       </p>
