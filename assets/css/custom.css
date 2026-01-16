@@ -207,3 +207,33 @@
   user-select: none;
 }
 
+/* Sticky project navigation */
+.project-nav {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #ffffffcc;
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+  margin-bottom: 24px;
+  display: flex;
+  gap: 24px;
+  font-size: 0.9rem;
+}
+
+.project-nav a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+}
+
+.project-nav a:hover {
+  color: #0366d6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
