@@ -38,7 +38,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 1 -->
 <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/9.png" alt="Thiqati App">
+    <img src="images/thiqati/9.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -53,7 +53,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 2 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/8.png" alt="Thiqati App">
+    <img src="images/thiqati/8.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -68,7 +68,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 3 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/7.png" alt="Thiqati App">
+    <img src="images/thiqati/7.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -83,7 +83,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 4 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/6.png" alt="Thiqati App">
+    <img src="images/thiqati/6.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -98,7 +98,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 5 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/5.png" alt="Thiqati App">
+    <img src="images/thiqati/5.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -113,7 +113,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 6 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/4.png" alt="Thiqati App">
+    <img src="images/thiqati/4.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -128,7 +128,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 7 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/3.png" alt="Thiqati App">
+    <img src="images/thiqati/3.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -143,7 +143,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 8 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/2.png" alt="Thiqati App">
+    <img src="images/thiqati/2.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -158,7 +158,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 9 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/1.png" alt="Thiqati App">
+    <img src="images/thiqati/1.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -173,7 +173,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 10 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/10.png" alt="Thiqati App">
+    <img src="images/thiqati/10.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
@@ -188,7 +188,7 @@ Some of the applications I have built, maintained, and published.
     <!-- Project 11 -->
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/11.png" alt="Thiqati App">
+    <img src="images/thiqati/11.webp" alt="Thiqati App">
     <div class="project-content">
       <h3>Thiqati</h3>
       <p class="project-desc">
