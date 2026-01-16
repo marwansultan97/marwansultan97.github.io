@@ -90,7 +90,7 @@
 }
 
 .screenshots-grid img {
-  width: 85%;
+  width: 92%;
   height: auto;
   border-radius: 10px;
   border: 1px solid #e5e5e5;
@@ -115,6 +115,6 @@
 }
 
 .screenshots-grid img:hover {
-  transform: scale(1.03);
+  transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0,0,0,0.15);
 }
