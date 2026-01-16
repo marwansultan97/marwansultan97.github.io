@@ -11,9 +11,9 @@ title: Thiqati
 
 ## 🧩 Overview {#overview}
 
-**Thiqati** is an enterprise-focused mobile application designed to streamline internal operations and enhance employee engagement within large organizations.
+**Thiqati** is an enterprise-focused iOS application designed to centralize internal company operations and enhance employee engagement. The app provides employees with a single platform to manage attendance, submit service requests, access company documents, and stay informed through centralized updates and announcements.
 
-The app centralizes multiple employee services into a single platform, enabling teams to manage attendance, submit service requests, stay informed with company announcements, and interact through a built-in community feed—creating a more connected and efficient workplace experience.
+In addition to operational tools, Thiqati includes collaborative and knowledge-sharing features such as a community feed, a company-wide document library, and an internal application library that provides access to company-approved and licensed tools—including paid applications and AI-based services tailored for internal use.
 
 ---
 
@@ -37,37 +37,15 @@ The app centralizes multiple employee services into a single platform, enabling 
 
 ## 🧰 Technology Stack {#tech}
 
-### iOS
 <div class="tech-group">
-- Swift
 - UIKit
-- SwiftUI (hybrid usage)
-- Combine
-- Auto Layout
-</div>
-
-### Architecture & Patterns
-<div class="tech-group">
-- MVVM
-- Clean Architecture
-- Protocol-Oriented Programming
+- MVVM / Clean Architecture
 - Dependency Injection
-</div>
-
-### Networking & Data
-<div class="tech-group">
-- RESTful APIs
-- URLSession
-- Codable
 - Asynchronous Programming
-- Secure API Key Management
-</div>
-
-### Backend & Services
-<div class="tech-group">
 - Azure Cloud Messaging
+- URLSession / RESTful APIs
+- Microsoft Authentication
 - Push Notifications
-- Secure Authentication
 - Role-Based Access Control
 </div>
 
@@ -77,6 +55,8 @@ The app centralizes multiple employee services into a single platform, enabling 
 - Attendance management with check-in / check-out workflows
 - Employee service request system with dynamic forms
 - Community feed for internal communication and engagement
+- Centralized document library for company-wide document access
+- Internal application library for company-approved and paid tools (e.g. AI-based services)
 - Company announcements, news, and exclusive offers
 - Secure authentication and enterprise-grade data privacy
 - Modular architecture for scalability and maintainability
