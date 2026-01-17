@@ -81,16 +81,16 @@ Some of the applications I have built, maintained, and published.
 </a>
 
     <!-- Project 4 -->
-  <a href="projects/Thiqati.html" class="project-link">
+  <a href="projects/Nippur.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/6.webp" alt="Thiqati App">
+    <img src="images/nippur/2.webp" alt="Nippur App">
     <div class="project-content">
-      <h3>Thiqati</h3>
+      <h3>Nippur Academy</h3>
       <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+        E-learning app delivering structured courses with secure, high-quality video playback.
       </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
+      <p class="project-meta"><strong>Category:</strong> Education / E-Learning</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · Custom Video Player · Secure Media Streaming · AVFoundation</p>
     </div>
   </div>
 </a>
