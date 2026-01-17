@@ -236,4 +236,28 @@ html {
   scroll-behavior: smooth;
 }
 
+.app-rating {
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: #666;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eee;
+}
 
+.app-rating .stars {
+  color: #f5a623; /* App Store–style gold */
+  font-size: 0.95rem;
+  letter-spacing: 1px;
+}
+
+.app-rating .score {
+  font-weight: 600;
+  color: #333;
+}
+
+.app-rating .count {
+  color: #777;
+}
