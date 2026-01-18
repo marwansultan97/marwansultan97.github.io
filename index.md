@@ -35,7 +35,7 @@ Some of the applications I have built, maintained, and published.
 <div class="projects-wide">
   <div class="projects-grid">
 
-    <!-- Project 1 -->
+    
 <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
     <img src="images/thiqati/9.webp" alt="Thiqati App">
@@ -50,7 +50,7 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 2 -->
+    
   <a href="projects/AtWork" class="project-link">
   <div class="project-card">
     <img src="images/atwork/5.webp" alt="AtWork App">
@@ -65,7 +65,7 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 3 -->
+    
   <a href="projects/WhatPhoto.html" class="project-link">
   <div class="project-card">
     <img src="images/WhatPhoto/5.webp" alt="WhatPhoto App">
@@ -80,7 +80,7 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 4 -->
+    
   <a href="projects/Nippur.html" class="project-link">
   <div class="project-card">
     <img src="images/nippur/2.webp" alt="Nippur App">
@@ -95,7 +95,7 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 5 -->
+    
   <a href="projects/FitSync" class="project-link">
   <div class="project-card">
     <img src="images/fitsync/4.webp" alt="FitSync App">
@@ -110,7 +110,20 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 6 -->
+<a href="projects/Importfolio.html" class="project-link">
+  <div class="project-card">
+    <img src="images/importfolio/1.webp" alt="Importfolio App">
+    <div class="project-content">
+      <h3>Importfolio</h3>
+      <p class="project-desc">
+        Build and manage a personal portfolio with projects, experience, and achievements.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Productivity / Developer Tools</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM · Firebase Database · Firebase Storage · Firebase Analytics</p>
+    </div>
+  </div>
+</a>
+    
   <a href="projects/CaptionAI.html" class="project-link">
   <div class="project-card">
     <img src="images/caption/5.webp" alt="CaptionAI App">
@@ -126,7 +139,6 @@ Some of the applications I have built, maintained, and published.
 </a>
 
 
-<!-- Project 7 -->
   <a href="projects/SlowMo.html" class="project-link">
   <div class="project-card">
     <img src="images/slowmo/3.webp" alt="SlowMo App">
@@ -140,7 +152,7 @@ Some of the applications I have built, maintained, and published.
     </div>
   </div>
 </a>
-    <!-- Project 8 -->
+
   <a href="projects/Mobily.html" class="project-link">
   <div class="project-card">
     <img src="images/mobily/3.webp" alt="Mobily App">
@@ -155,22 +167,7 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 9 -->
-  <a href="projects/Thiqati.html" class="project-link">
-  <div class="project-card">
-    <img src="images/thiqati/1.webp" alt="Thiqati App">
-    <div class="project-content">
-      <h3>Thiqati</h3>
-      <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
-      </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
-    </div>
-  </div>
-</a>
-
-    <!-- Project 10 -->
+    
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
     <img src="images/thiqati/10.webp" alt="Thiqati App">
@@ -185,7 +182,7 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 11 -->
+    
   <a href="projects/Thiqati.html" class="project-link">
   <div class="project-card">
     <img src="images/thiqati/11.webp" alt="Thiqati App">
