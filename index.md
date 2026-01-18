@@ -111,16 +111,16 @@ Some of the applications I have built, maintained, and published.
 </a>
 
     <!-- Project 6 -->
-  <a href="projects/Thiqati.html" class="project-link">
+  <a href="projects/CaptionAI.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/4.webp" alt="Thiqati App">
+    <img src="images/caption/5.webp" alt="CaptionAI App">
     <div class="project-content">
-      <h3>Thiqati</h3>
+      <h3>CaptionAI</h3>
       <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+        AI-powered subtitle generator with video recording and editing tools for creators.
       </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
+      <p class="project-meta"><strong>Category:</strong> Media / AI & Creator Tools</p>
+      <p class="project-meta"><strong>Tech:</strong> SwiftUI · UIKit · OpenAI Whisper · In-App Purchases</p>
     </div>
   </div>
 </a>
