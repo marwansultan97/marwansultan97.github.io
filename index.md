@@ -96,16 +96,16 @@ Some of the applications I have built, maintained, and published.
 </a>
 
     <!-- Project 5 -->
-  <a href="projects/Thiqati.html" class="project-link">
+  <a href="projects/FitSync" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/5.webp" alt="Thiqati App">
+    <img src="images/fitsync/4.webp" alt="FitSync App">
     <div class="project-content">
-      <h3>Thiqati</h3>
+      <h3>FitSync</h3>
       <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+        Bridge Fitbit and Apple Health with daily and bulk health data syncing.
       </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
+      <p class="project-meta"><strong>Category:</strong> Health & Fitness</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · HealthKit · CSV Processing · In-App Purchases · Firebase</p>
     </div>
   </div>
 </a>
