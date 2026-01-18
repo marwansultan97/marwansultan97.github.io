@@ -5,6 +5,7 @@ title: FitSync
 
 ## FitSync
 **Category:** Health & Fitness
+
 [ View on App Store →](https://apps.apple.com/us/app/power-sync-fitness-to-health/id1642814856)
 
 <div class="app-rating">
@@ -20,6 +21,7 @@ title: FitSync
 **FitSync** is an iOS application that enables users to seamlessly synchronize health data from the Fitbit platform into Apple Health. The app supports both day-by-day syncing and large-scale bulk imports—allowing users to transfer monthly or annual health data using CSV files exported from Fitbit.
 
 With a strong user base and high App Store ratings, FitSync focuses on reliability, performance, and accurate health data mapping, providing users with full control over their health history across platforms.
+
 ---
 
 ## 📱 Screenshots {#screenshots}
