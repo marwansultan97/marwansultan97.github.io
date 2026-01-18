@@ -126,16 +126,16 @@ Some of the applications I have built, maintained, and published.
 </a>
 
     <!-- Project 7 -->
-  <a href="projects/Thiqati.html" class="project-link">
+  <a href="projects/Mobily.html" class="project-link">
   <div class="project-card">
-    <img src="images/thiqati/3.webp" alt="Thiqati App">
+    <img src="images/mobily/3.webp" alt="Mobily App">
     <div class="project-content">
-      <h3>Thiqati</h3>
+      <h3>mCan (Mobily)</h3>
       <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
+        Enterprise self-service platform for Mobily employees and internal operations.
       </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
+      <p class="project-meta"><strong>Category:</strong> Enterprise / Telecom</p>
+      <p class="project-meta"><strong>Tech:</strong> UIKit · RxSwift · MVVM · Dynamic Forms · Firebase Analytics</p>
     </div>
   </div>
 </a>
