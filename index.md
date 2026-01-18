@@ -125,7 +125,22 @@ Some of the applications I have built, maintained, and published.
   </div>
 </a>
 
-    <!-- Project 7 -->
+
+<!-- Project 7 -->
+  <a href="projects/SlowMo.html" class="project-link">
+  <div class="project-card">
+    <img src="images/slowmo/3.webp" alt="SlowMo App">
+    <div class="project-content">
+      <h3>SlowMo</h3>
+      <p class="project-desc">
+        Video editing app with custom speed ramping and media tools.
+      </p>
+      <p class="project-meta"><strong>Category:</strong> Media / Video Editing</p>
+      <p class="project-meta"><strong>Tech:</strong> SwiftUI · UIKit · AVFoundation · In-App Purchases</p>
+    </div>
+  </div>
+</a>
+    <!-- Project 8 -->
   <a href="projects/Mobily.html" class="project-link">
   <div class="project-card">
     <img src="images/mobily/3.webp" alt="Mobily App">
@@ -136,21 +151,6 @@ Some of the applications I have built, maintained, and published.
       </p>
       <p class="project-meta"><strong>Category:</strong> Enterprise / Telecom</p>
       <p class="project-meta"><strong>Tech:</strong> UIKit · RxSwift · MVVM · Dynamic Forms · Firebase Analytics</p>
-    </div>
-  </div>
-</a>
-
-    <!-- Project 8 -->
-  <a href="projects/Thiqati.html" class="project-link">
-  <div class="project-card">
-    <img src="images/thiqati/2.webp" alt="Thiqati App">
-    <div class="project-content">
-      <h3>Thiqati</h3>
-      <p class="project-desc">
-        Thiqati is an Enterprise platform streamlining employee operations, engagement, and internal communication.
-      </p>
-      <p class="project-meta"><strong>Category:</strong> Enterprise / Internal Operations</p>
-      <p class="project-meta"><strong>Tech:</strong> UIKit · MVVM / Clean Architecture · Azure Cloud Messaging · Asynchronous Programming · Security & Data Privacy</p>
     </div>
   </div>
 </a>
