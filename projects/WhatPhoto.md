@@ -6,6 +6,8 @@ title: WhatPhoto – AI Art Generator
 ## WhatPhoto – AI Art Generator
 **Category:** Consumer / AI & Creativity
 
+[ View on App Store →](https://apps.apple.com/us/app/whatphoto-ai-art-generator/id6466330434)
+
 ---
 
 ## 🧩 Overview {#overview}
