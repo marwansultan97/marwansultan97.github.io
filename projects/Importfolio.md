@@ -6,7 +6,7 @@ title: Importfolio
 ## Importfolio
 **Category:** Productivity / Developer Tools
 
-[:octocat: View on Github →](https://github.com/marwansultan97/importfolio)
+[View on Github →](https://github.com/marwansultan97/importfolio)
 
 <div class="app-rating">
   <span class="stars">★</span>
