@@ -5,6 +5,7 @@ title: Thiqati
 
 ## Thiqati
 **Category:** Enterprise Application / Utilities  
+
 [ View on App Store →](https://apps.apple.com/us/app/thiqati/id6468778547)
 
 ---
