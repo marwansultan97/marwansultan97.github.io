@@ -5,7 +5,9 @@ title: Nippur
 
 ## Nippur Academy
 **Category:** Education / E-Learning
+
 [ View on App Store →](https://apps.apple.com/dz/app/nippur-academy-نيبور-أكاديمي/id6745492611)
+
 [🖥️ View on Website →](https://nippuracademy.net/)
 
 ---
